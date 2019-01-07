@@ -1,0 +1,22 @@
+kokot
+
+   if [ $sx != $lx ] 
+     then
+
+    
+    fi
+    if [ $sy != $ly ]
+    then
+    
+    
+    delkaocasu=$((delkaocasu+1))
+    
+    px[$delkaocasu]=$lx
+    py[$delkaocasu]=$ly
+    
+
+
+    
+
+
+        fi
